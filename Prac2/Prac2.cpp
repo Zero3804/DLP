@@ -89,7 +89,6 @@ int main()
 {
     DFA d;
     d.set();
-    //d.get();
     d.AcceptString("ab");
     return 0;
 }
